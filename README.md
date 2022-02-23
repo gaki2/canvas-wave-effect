@@ -1,4 +1,4 @@
 # canvas-wave
 canvas wave effect
 
-https://gaki2.github.io/wave-web-/
+https://gaki2.github.io/canvas-wave-effect/
